@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"build": "Webpack . --mode=production",
+		"build": "Webpack .",
 		"start": "Webpack serve .",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
